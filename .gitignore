@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+x64/
+*/x64/
+.idea/
+
+*.vcxproj
+*.vcxproj.filters
+*.DotSettings.user
