@@ -7,7 +7,4 @@ riderModule.iml
 x64/
 */x64/
 .idea/
-
-*.vcxproj
-*.vcxproj.filters
 *.DotSettings.user
